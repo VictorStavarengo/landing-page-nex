@@ -1,8 +1,10 @@
 💻 Teste Front-End - Landing Page NEX
-Este projeto é uma landing page responsiva criada como parte de um processo seletivo, replicando com alta fidelidade um design do Figma.
+Este projeto é uma landing page responsiva criada como parte de um processo seletivo, replicando com alta fidelidade um design do Figma e integrando uma API externa para busca de CEP.
 
 ✨ Funcionalidades Principais
 Fidelidade Visual: Layout recriado com atenção aos detalhes de espaçamento, tipografia e cores do Figma.
+
+Integração com API: Modal interativo para busca de endereço em tempo real através do CEP, utilizando a API ViaCEP.
 
 Design Responsivo: Experiência de utilizador otimizada para desktop, tablet e dispositivos móveis, com um menu "hambúrguer" funcional.
 
